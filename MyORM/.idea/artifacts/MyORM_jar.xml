@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyORM:jar">
+    <output-path>$PROJECT_DIR$/../j2ee知识点一/AtmForServlet/src/util</output-path>
+    <root id="archive" name="MyORM.jar">
+      <element id="module-output" name="MyORM" />
+    </root>
+  </artifact>
+</component>
